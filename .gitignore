@@ -1,0 +1,11 @@
+bin/
+target/
+.idea/
+*/.settings/
+*.iml
+*.classpath
+*.project
+*.class
+# Package Files #
+*.jar
+*.war
